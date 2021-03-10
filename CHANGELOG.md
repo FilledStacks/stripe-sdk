@@ -1,5 +1,9 @@
 # Stripe SDK Changelog
 
+## 4.0.2+1
+
+* Bumps http package to `0.13.0`
+
 ## 4.0.2
 
 * Fix a bug with date validation
